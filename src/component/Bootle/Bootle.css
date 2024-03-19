@@ -1,0 +1,10 @@
+.bootle{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bootle img{
+    width: 200px;
+}
